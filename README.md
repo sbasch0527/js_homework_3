@@ -1,2 +1,12 @@
+
 # js_homework_3
-Shopping List expanded
+
+This shopping list has expanded functionality including:
+  - Add price along with an item
+  - Edit both item and/or price
+  - Remove item and matching price
+  - Running total price of all items in the list; updates after add/edit/remove item from list
+  - usage of glyph icons for edit/delete buttons
+  - validation for text input fields
+  
+  Author: Shari Basch
