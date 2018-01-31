@@ -1,5 +1,5 @@
 
-# js_homework_3
+# JavaScript Remote Class Homework #3
 
 This shopping list has expanded functionality including:
   - Add price along with an item
